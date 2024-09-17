@@ -13,6 +13,8 @@ function palindrome(n) {
   }
 }
 
+
+
 // Main function
 function main() {
   let number = 4554;
@@ -23,6 +25,5 @@ function main() {
     console.log(number + " is not a palindrome.");
   }
 }
-
 
 main();
